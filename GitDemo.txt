@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello World project just for demo with git. Now I am some adding developement in this file.I am dev and also I am editing thiss file now and adding it into the dev.
+=======
+Hello World project just for demo with git. Now I am some adding developement in this file.This is the file I am adding in Prod.yes I have fix the issue here.
+>>>>>>> prod
